@@ -20,7 +20,7 @@ Application creates a mod that randomizes a variety of content in the PC version
 ## How to use
 
 * Clone the repository or download the files in the debug/bin folder.
-* Run FFXIITZAR.exe
+* Run FFXIITZARandomizer.exe
 * Check off the options you wish to randomize.
 * Enter a seed number(random seed generation to be added in first public release) 
 * Hit generate mod.
