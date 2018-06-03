@@ -1,0 +1,2 @@
+# FFXIITZA-Randomizer
+Randomizer
