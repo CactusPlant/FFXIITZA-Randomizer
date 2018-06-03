@@ -19,10 +19,10 @@ Application creates a mod that randomizes a variety of content in the PC version
  
 ## How to use
 
-Clone the repository or download the files in the debug/bin folder.
-Run FFXIITZAR.exe
-Check off the options you wish to randomize.
-Enter a seed number(random seed generation to be added in first public release) 
-Hit generate mod.
-Folder will be generated in the same folder as the exe.
-Install mod with the [DrakLab mod](https://www.nexusmods.com/finalfantasy12/mods/45) loader(Recommended) or import the folders manually with VPF viewer.
+* Clone the repository or download the files in the debug/bin folder.
+* Run FFXIITZAR.exe
+* Check off the options you wish to randomize.
+* Enter a seed number(random seed generation to be added in first public release) 
+* Hit generate mod.
+* Folder will be generated in the same folder as the exe.
+* Install mod with the [DrakLab mod loader](https://www.nexusmods.com/finalfantasy12/mods/45) (Recommended) or import the folders manually with VPF viewer.
