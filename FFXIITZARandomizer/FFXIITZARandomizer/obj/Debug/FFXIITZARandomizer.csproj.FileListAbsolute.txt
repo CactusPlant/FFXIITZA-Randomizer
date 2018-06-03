@@ -1,0 +1,16 @@
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\bin\Debug\FFXIITZARandomizer.exe.config
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\bin\Debug\FFXIITZARandomizer.exe
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\bin\Debug\FFXIITZARandomizer.pdb
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\MainWindow.g.cs
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\App.g.cs
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer_MarkupCompile.cache
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer_MarkupCompile.lref
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\MainWindow.baml
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer.g.resources
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer.Properties.Resources.resources
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer.csproj.GenerateResource.cache
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer.exe
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer.pdb
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cactus\source\repos\FFXIITZARandomizer\FFXIITZARandomizer\obj\Debug\FFXIITZARandomizer.csprojAssemblyReference.cache
