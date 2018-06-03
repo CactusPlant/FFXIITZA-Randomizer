@@ -9,13 +9,13 @@ Application creates a mod that randomizes a variety of content in the PC version
 ## In-Progress Options
 * Random seed generation
 * Bazaars
- * Randomizes the content of Bazaars, does no change the requirements, as that would be insanity.
+-Randomizes the content of Bazaars, does no change the requirements, as that would be insanity.
 * Shop Data
- * Randomizes what the shops sell. Can result in End-Game items showing up early, and also extremely late.
+- Randomizes what the shops sell. Can result in End-Game items showing up early, and also extremely late.
 * Enemy Drops
- * Will randomize what loot items enemies drop
+- Will randomize what loot items enemies drop
 * Enemy Placements
- * Will logically replace enemies with random enemies / replace hunts with random hunts.
+- Will logically replace enemies with random enemies / replace hunts with random hunts.
  
 ## How to use
 
