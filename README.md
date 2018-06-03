@@ -4,7 +4,7 @@ Application creates a mod that randomizes a variety of content in the PC version
 
 ## Current Randomization Features
 * License Board Randomization
- * Randomizes all 12 license boards, creating a newly created completely random board.
+** Randomizes all 12 license boards, creating a newly created completely random board.
 
 ## In-Progress Options
 * Random seed generation
